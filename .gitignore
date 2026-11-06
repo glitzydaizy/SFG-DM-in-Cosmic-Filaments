@@ -11,3 +11,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .venv/
+
+*.C2767
+fyp/
