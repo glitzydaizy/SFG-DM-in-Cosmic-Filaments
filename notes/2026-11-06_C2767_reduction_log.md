@@ -34,3 +34,22 @@ Result: 145,320 spectra selected; 8.84% flagged (antenna off-source/off-line); n
 2. Plot the 1934-638 spectrum with uvspec, note the bad channel ranges
 3. Flag them with uvflag, then pgflag on calibrators and targets
 4. Calibrate (mfcal, gpcal, gpboot, uvcat), then flag again
+
+## 6. Flagging so far (2026-11-07)
+
+Backup made first: cp -r zone1.uv zone1_backup.uv
+
+    pgflag vis=zone1.uv select='source(1934-638)' stokes=xx,yy,xy,yx flagpar=6,2,2,2,5,3 command='<b' options=nodisp
+
+28.7% of the data flagged afterwards. A single-channel spike near channel 1735 was flagged by hand (1734-1736; IF2 is +2049, so 3783-3785). Channels 1737-1741 were also flagged by mistake (harmless).
+
+pgflag was then run on the 14 target fields, zone1field_15 to _28. Flagged fractions (checked with uvflag options=noapply): about 66% for fields 16 to 28 and 63% for field 15. No field is an outlier. Comparing with the backup showed pgflag removed strong RFI (spikes up to about 11 Jy), so the heavy flagging is real RFI, not over-flagging.
+
+Remaining spike at channels 1234-1236 (XX only, about 0.26 Jy) flagged by hand:
+
+    uvflag vis=zone1.uv flagval=flag line=chan,4,1210,1,1
+    uvflag vis=zone1.uv flagval=flag line=chan,5,1233,1,1
+    uvflag vis=zone1.uv flagval=flag line=chan,4,3259,1,1
+    uvflag vis=zone1.uv flagval=flag line=chan,5,3282,1,1
+
+Next: calibration (mfcal, gpcal, gpboot, uvcat).
