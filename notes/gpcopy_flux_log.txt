@@ -1,0 +1,105 @@
+=== gpcopy 1268 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 1396 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 1524 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 1652 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 1780 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 1908 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2036 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2164 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2292 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2420 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2548 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2676 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2804 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 2932 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== gpcopy 3060 ===
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table

@@ -1,0 +1,6 @@
+2036 MHz band, 12 Nov 2026
+invert vis=../split/zone1field.2036 map=f2036.map beam=f2036.beam options=mosaic,mfs,double stokes=ii robust=0.5 slop=1
+beam fitted from mospsf + imfit: 23.18 x 5.08 arcsec, PA -73.5
+mossdi map=f2036.map beam=f2036.beam out=f2036_sdi_full.mod gain=0.1 cutoff=0.0015,0.0006 niters=20000 options=positive
+restor map=f2036.map beam=f2036.beam model=f2036_sdi_full.mod out=f2036_sdi_full.cm fwhm=23.18,5.08 pa=-73.5
+empty-patch rms (box -300,-150,-150,50): 4.382E-04 Jy/beam (box-only mossdi image: 5.332E-04)
