@@ -1,0 +1,173 @@
+
+atlod: Revision 1.56, 2021/06/03 07:09:31 UTC
+
+Processing file ../C2767_raw/2012-12-14_0558.C2767
+ 05:56:23 CAOBS> set file millerdec14zone2.sch
+ 05:56:32 CAOBS> start 1/100
+ 05:57:08 CAOBS> stop
+ 05:57:33 CAOBS> corr closefile
+ 05:57:49 CAOBS> set file millerdec14zone1arm.sch
+ 05:58:04 CAOBS> start 1/100
+CABB data detected
+Scan 1 started at 12DEC14:05:59:34.9
+Source: 0302-623
+Scan 2 started at 12DEC14:06:03:35.7
+Source: zone1field_15
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Source: zone1field_16
+Source: zone1field_17
+Source: zone1field_18
+Source: zone1field_19
+Source: zone1field_20
+Source: zone1field_21
+Source: zone1field_22
+Source: zone1field_23
+Source: zone1field_24
+Source: zone1field_25
+Source: zone1field_26
+Source: zone1field_27
+Source: zone1field_28
+Scan 3 started at 12DEC14:06:29:44.9
+Source: 0302-623
+ 06:33:35 CAOBS> stop
+ 06:33:43 CAOBS> corr closefile
+RPFITS file version is 2.12
+---------------------------------------
+Total number of spectra selected: 24600
+
+Summary of spectra flagged
+Flagging Reason            Fraction
+---------------            --------
+Antenna off-source/off-line  12.2%
+---------------------------------------
+
+No CACAL data was detected

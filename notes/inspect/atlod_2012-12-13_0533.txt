@@ -1,0 +1,28 @@
+
+atlod: Revision 1.56, 2021/06/03 07:09:31 UTC
+
+Processing file ../C2767_raw/2012-12-13_0533.C2767
+ 05:32:36 CAOBS> set file millerdec13calib.sch
+ 05:33:05 CAOBS> track1
+ 05:33:08 CAOBS> track 1
+CABB data detected
+Scan 1 started at 12DEC13:05:34:24.9
+Source: 1934-638
+ 05:37:01 CAOBS> dcal
+ 05:37:05 CAOBS> dcal a
+ 05:37:29 CAOBS> corr dcal a
+ 05:38:57 CAOBS> corr pcal
+ 05:39:45 CAOBS> corr acal
+ 05:40:44 CAOBS> stop
+ 05:40:59 CAOBS> corr closefile
+RPFITS file version is 2.12
+---------------------------------------
+Total number of spectra selected: 5280
+
+Summary of spectra flagged
+Flagging Reason            Fraction
+---------------            --------
+Antenna off-source/off-line  13.6%
+---------------------------------------
+
+No CACAL data was detected

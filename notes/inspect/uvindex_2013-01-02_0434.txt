@@ -1,0 +1,39 @@
+
+uvindex: Revision 1.7, 2014/09/30 13:58:54 UTC
+
+
+Summary listing for data-set 2013-01-02_0434.uv
+
+       Time        Source        Antennas Spectral Wideband  Freq  Record
+                    Name        Calcode   Channels Channels Config   No.
+
+13JAN02:04:34:24.9 1934-638         c  6      4131        0      1       1
+13JAN02:04:43:54.9 Total number of records                            3480
+
+------------------------------------------------
+
+Total observing time is  0.16 hours
+
+The input data-set contains the following frequency configurations:
+
+Frequency Configuration 1
+  Channels  Freq(chan=1)  Increment  Restfreq     IFChain
+    2049       3.12400   -0.0010000   0.00000 GHz     1
+      33       3.12400   -0.0640000   0.00000 GHz     2
+    2049       2.13200   -0.0000313   0.00000 GHz     2
+
+------------------------------------------------
+
+The input data-set contains the following polarizations:
+There were 870 records of polarization YX
+There were 870 records of polarization XY
+There were 870 records of polarization YY
+There were 870 records of polarization XX
+
+------------------------------------------------
+
+The input data-set contains the following pointings:
+ Source       CalCode     RA            DEC             dra(arcsec) ddec(arcsec)
+1934-638         c     19:39:25.03   -63:42:45.63           0.00         0.00
+
+------------------------------------------------

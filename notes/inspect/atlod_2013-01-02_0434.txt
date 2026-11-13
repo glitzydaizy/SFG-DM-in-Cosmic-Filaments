@@ -1,0 +1,17 @@
+
+atlod: Revision 1.56, 2021/06/03 07:09:31 UTC
+
+Processing file ../C2767_raw/2013-01-02_0434.C2767
+ 04:34:04 CAOBS> start
+CABB data detected
+Scan 1 started at 13JAN02:04:34:24.9
+Source: 1934-638
+ 04:44:11 CAOBS> corr close
+RPFITS file version is 2.12
+---------------------------------------
+Total number of spectra selected: 10440
+
+There was no flagged data
+---------------------------------------
+
+No CACAL data was detected

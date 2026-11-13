@@ -1,0 +1,197 @@
+
+uvindex: Revision 1.7, 2014/09/30 13:58:54 UTC
+
+
+Summary listing for data-set 2012-12-14_0558.uv
+
+       Time        Source        Antennas Spectral Wideband  Freq  Record
+                    Name        Calcode   Channels Channels Config   No.
+
+12DEC14:05:59:34.9 0302-623         c  6      4098        0      1       1
+12DEC14:06:03:35.7 zone1field_15    n  6      4098        0      1    1121
+12DEC14:06:03:46.5 zone1field_16    n  6      4098        0      1    1181
+12DEC14:06:03:56.5 zone1field_17    n  6      4098        0      1    1241
+12DEC14:06:04:07.0 zone1field_18    n  6      4098        0      1    1301
+12DEC14:06:04:16.5 zone1field_19    n  6      4098        0      1    1361
+12DEC14:06:04:26.5 zone1field_20    n  6      4098        0      1    1421
+12DEC14:06:04:36.5 zone1field_21    n  6      4098        0      1    1481
+12DEC14:06:04:46.5 zone1field_22    n  6      4098        0      1    1541
+12DEC14:06:04:56.7 zone1field_23    n  6      4098        0      1    1601
+12DEC14:06:05:06.7 zone1field_24    n  6      4098        0      1    1661
+12DEC14:06:05:16.7 zone1field_25    n  6      4098        0      1    1721
+12DEC14:06:05:27.0 zone1field_26    n  6      4098        0      1    1781
+12DEC14:06:05:36.5 zone1field_27    n  6      4098        0      1    1841
+12DEC14:06:05:46.5 zone1field_28    n  6      4098        0      1    1901
+12DEC14:06:06:06.5 zone1field_16    n  6      4098        0      1    1961
+12DEC14:06:06:16.5 zone1field_17    n  6      4098        0      1    2021
+12DEC14:06:06:27.0 zone1field_18    n  6      4098        0      1    2081
+12DEC14:06:06:36.5 zone1field_19    n  6      4098        0      1    2141
+12DEC14:06:06:46.5 zone1field_20    n  6      4098        0      1    2201
+12DEC14:06:06:56.5 zone1field_21    n  6      4098        0      1    2261
+12DEC14:06:07:06.5 zone1field_22    n  6      4098        0      1    2321
+12DEC14:06:07:16.7 zone1field_23    n  6      4098        0      1    2381
+12DEC14:06:07:26.7 zone1field_24    n  6      4098        0      1    2441
+12DEC14:06:07:36.7 zone1field_25    n  6      4098        0      1    2501
+12DEC14:06:07:47.0 zone1field_26    n  6      4098        0      1    2561
+12DEC14:06:07:56.5 zone1field_27    n  6      4098        0      1    2621
+12DEC14:06:08:06.5 zone1field_28    n  6      4098        0      1    2681
+12DEC14:06:08:26.5 zone1field_16    n  6      4098        0      1    2741
+12DEC14:06:08:36.5 zone1field_17    n  6      4098        0      1    2801
+12DEC14:06:08:47.0 zone1field_18    n  6      4098        0      1    2861
+12DEC14:06:08:56.5 zone1field_19    n  6      4098        0      1    2921
+12DEC14:06:09:06.5 zone1field_20    n  6      4098        0      1    2981
+12DEC14:06:09:16.5 zone1field_21    n  6      4098        0      1    3041
+12DEC14:06:09:26.5 zone1field_22    n  6      4098        0      1    3101
+12DEC14:06:09:36.7 zone1field_23    n  6      4098        0      1    3161
+12DEC14:06:09:46.7 zone1field_24    n  6      4098        0      1    3221
+12DEC14:06:09:56.7 zone1field_25    n  6      4098        0      1    3281
+12DEC14:06:10:07.0 zone1field_26    n  6      4098        0      1    3341
+12DEC14:06:10:16.5 zone1field_27    n  6      4098        0      1    3401
+12DEC14:06:10:26.5 zone1field_28    n  6      4098        0      1    3461
+12DEC14:06:10:46.5 zone1field_16    n  6      4098        0      1    3521
+12DEC14:06:10:56.5 zone1field_17    n  6      4098        0      1    3581
+12DEC14:06:11:07.0 zone1field_18    n  6      4098        0      1    3641
+12DEC14:06:11:16.5 zone1field_19    n  6      4098        0      1    3701
+12DEC14:06:11:26.5 zone1field_20    n  6      4098        0      1    3761
+12DEC14:06:11:36.5 zone1field_21    n  6      4098        0      1    3821
+12DEC14:06:11:46.5 zone1field_22    n  6      4098        0      1    3881
+12DEC14:06:11:56.7 zone1field_23    n  6      4098        0      1    3941
+12DEC14:06:12:06.7 zone1field_24    n  6      4098        0      1    4001
+12DEC14:06:12:16.7 zone1field_25    n  6      4098        0      1    4061
+12DEC14:06:12:27.0 zone1field_26    n  6      4098        0      1    4121
+12DEC14:06:12:36.5 zone1field_27    n  6      4098        0      1    4181
+12DEC14:06:12:46.5 zone1field_28    n  6      4098        0      1    4241
+12DEC14:06:13:06.5 zone1field_16    n  6      4098        0      1    4301
+12DEC14:06:13:16.5 zone1field_17    n  6      4098        0      1    4361
+12DEC14:06:13:27.0 zone1field_18    n  6      4098        0      1    4421
+12DEC14:06:13:36.5 zone1field_19    n  6      4098        0      1    4481
+12DEC14:06:13:46.5 zone1field_20    n  6      4098        0      1    4541
+12DEC14:06:13:56.5 zone1field_21    n  6      4098        0      1    4601
+12DEC14:06:14:06.5 zone1field_22    n  6      4098        0      1    4661
+12DEC14:06:14:16.7 zone1field_23    n  6      4098        0      1    4721
+12DEC14:06:14:26.7 zone1field_24    n  6      4098        0      1    4781
+12DEC14:06:14:36.7 zone1field_25    n  6      4098        0      1    4841
+12DEC14:06:14:47.0 zone1field_26    n  6      4098        0      1    4901
+12DEC14:06:14:56.5 zone1field_27    n  6      4098        0      1    4961
+12DEC14:06:15:06.5 zone1field_28    n  6      4098        0      1    5021
+12DEC14:06:15:26.5 zone1field_16    n  6      4098        0      1    5081
+12DEC14:06:15:36.5 zone1field_17    n  6      4098        0      1    5141
+12DEC14:06:15:47.0 zone1field_18    n  6      4098        0      1    5201
+12DEC14:06:15:56.5 zone1field_19    n  6      4098        0      1    5261
+12DEC14:06:16:06.5 zone1field_20    n  6      4098        0      1    5321
+12DEC14:06:16:16.5 zone1field_21    n  6      4098        0      1    5381
+12DEC14:06:16:26.5 zone1field_22    n  6      4098        0      1    5441
+12DEC14:06:16:36.7 zone1field_23    n  6      4098        0      1    5501
+12DEC14:06:16:46.7 zone1field_24    n  6      4098        0      1    5561
+12DEC14:06:16:56.7 zone1field_25    n  6      4098        0      1    5621
+12DEC14:06:17:07.0 zone1field_26    n  6      4098        0      1    5681
+12DEC14:06:17:16.5 zone1field_27    n  6      4098        0      1    5741
+12DEC14:06:17:26.5 zone1field_28    n  6      4098        0      1    5801
+12DEC14:06:17:46.5 zone1field_16    n  6      4098        0      1    5861
+12DEC14:06:17:56.5 zone1field_17    n  6      4098        0      1    5921
+12DEC14:06:18:07.0 zone1field_18    n  6      4098        0      1    5981
+12DEC14:06:18:16.5 zone1field_19    n  6      4098        0      1    6041
+12DEC14:06:18:26.5 zone1field_20    n  6      4098        0      1    6101
+12DEC14:06:18:36.5 zone1field_21    n  6      4098        0      1    6161
+12DEC14:06:18:46.5 zone1field_22    n  6      4098        0      1    6221
+12DEC14:06:18:56.7 zone1field_23    n  6      4098        0      1    6281
+12DEC14:06:19:06.7 zone1field_24    n  6      4098        0      1    6341
+12DEC14:06:19:16.7 zone1field_25    n  6      4098        0      1    6401
+12DEC14:06:19:27.0 zone1field_26    n  6      4098        0      1    6461
+12DEC14:06:19:36.5 zone1field_27    n  6      4098        0      1    6521
+12DEC14:06:19:46.5 zone1field_28    n  6      4098        0      1    6581
+12DEC14:06:20:06.5 zone1field_16    n  6      4098        0      1    6641
+12DEC14:06:20:16.5 zone1field_17    n  6      4098        0      1    6701
+12DEC14:06:20:27.0 zone1field_18    n  6      4098        0      1    6761
+12DEC14:06:20:36.5 zone1field_19    n  6      4098        0      1    6821
+12DEC14:06:20:46.5 zone1field_20    n  6      4098        0      1    6881
+12DEC14:06:20:56.5 zone1field_21    n  6      4098        0      1    6941
+12DEC14:06:21:06.5 zone1field_22    n  6      4098        0      1    7001
+12DEC14:06:21:16.7 zone1field_23    n  6      4098        0      1    7061
+12DEC14:06:21:26.7 zone1field_24    n  6      4098        0      1    7121
+12DEC14:06:21:36.7 zone1field_25    n  6      4098        0      1    7181
+12DEC14:06:21:47.0 zone1field_26    n  6      4098        0      1    7241
+12DEC14:06:21:56.5 zone1field_27    n  6      4098        0      1    7301
+12DEC14:06:22:06.5 zone1field_28    n  6      4098        0      1    7361
+12DEC14:06:22:26.5 zone1field_16    n  6      4098        0      1    7421
+12DEC14:06:22:36.5 zone1field_17    n  6      4098        0      1    7481
+12DEC14:06:22:47.0 zone1field_18    n  6      4098        0      1    7521
+12DEC14:06:22:56.5 zone1field_19    n  6      4098        0      1    7581
+12DEC14:06:23:06.5 zone1field_20    n  6      4098        0      1    7641
+12DEC14:06:23:16.5 zone1field_21    n  6      4098        0      1    7701
+12DEC14:06:23:26.5 zone1field_22    n  6      4098        0      1    7761
+12DEC14:06:23:36.7 zone1field_23    n  6      4098        0      1    7821
+12DEC14:06:23:46.7 zone1field_24    n  6      4098        0      1    7861
+12DEC14:06:23:56.7 zone1field_25    n  6      4098        0      1    7921
+12DEC14:06:24:07.0 zone1field_26    n  6      4098        0      1    7981
+12DEC14:06:24:16.5 zone1field_27    n  6      4098        0      1    8041
+12DEC14:06:24:26.5 zone1field_28    n  6      4098        0      1    8101
+12DEC14:06:24:46.5 zone1field_16    n  6      4098        0      1    8161
+12DEC14:06:24:56.5 zone1field_17    n  6      4098        0      1    8221
+12DEC14:06:25:07.0 zone1field_18    n  6      4098        0      1    8281
+12DEC14:06:25:16.5 zone1field_19    n  6      4098        0      1    8341
+12DEC14:06:25:26.5 zone1field_20    n  6      4098        0      1    8401
+12DEC14:06:25:36.5 zone1field_21    n  6      4098        0      1    8461
+12DEC14:06:25:46.5 zone1field_22    n  6      4098        0      1    8521
+12DEC14:06:25:56.7 zone1field_23    n  6      4098        0      1    8581
+12DEC14:06:26:06.7 zone1field_24    n  6      4098        0      1    8641
+12DEC14:06:26:16.7 zone1field_25    n  6      4098        0      1    8701
+12DEC14:06:26:27.0 zone1field_26    n  6      4098        0      1    8761
+12DEC14:06:26:36.5 zone1field_27    n  6      4098        0      1    8821
+12DEC14:06:26:46.5 zone1field_28    n  6      4098        0      1    8881
+12DEC14:06:27:06.5 zone1field_16    n  6      4098        0      1    8941
+12DEC14:06:27:16.5 zone1field_17    n  6      4098        0      1    9001
+12DEC14:06:27:27.0 zone1field_18    n  6      4098        0      1    9061
+12DEC14:06:27:36.5 zone1field_19    n  6      4098        0      1    9121
+12DEC14:06:27:46.5 zone1field_20    n  6      4098        0      1    9181
+12DEC14:06:27:56.5 zone1field_21    n  6      4098        0      1    9241
+12DEC14:06:28:06.5 zone1field_22    n  6      4098        0      1    9301
+12DEC14:06:28:16.7 zone1field_23    n  6      4098        0      1    9361
+12DEC14:06:28:26.7 zone1field_24    n  6      4098        0      1    9421
+12DEC14:06:28:36.7 zone1field_25    n  6      4098        0      1    9481
+12DEC14:06:28:47.0 zone1field_26    n  6      4098        0      1    9541
+12DEC14:06:28:56.5 zone1field_27    n  6      4098        0      1    9601
+12DEC14:06:29:06.5 zone1field_28    n  6      4098        0      1    9661
+12DEC14:06:29:44.9 0302-623         c  6      4098        0      1    9721
+12DEC14:06:32:34.9 Total number of records                           10800
+
+------------------------------------------------
+
+Total observing time is  0.36 hours
+
+The input data-set contains the following frequency configurations:
+
+Frequency Configuration 1
+  Channels  Freq(chan=1)  Increment  Restfreq     IFChain
+    2049       3.12400   -0.0010000   0.00000 GHz     1
+    2049       3.12400   -0.0010000   0.00000 GHz     2
+
+------------------------------------------------
+
+The input data-set contains the following polarizations:
+There were 2700 records of polarization YX
+There were 2700 records of polarization XY
+There were 2700 records of polarization YY
+There were 2700 records of polarization XX
+
+------------------------------------------------
+
+The input data-set contains the following pointings:
+ Source       CalCode     RA            DEC             dra(arcsec) ddec(arcsec)
+0302-623         c     03:03:50.63   -62:11:25.55           0.00         0.00
+zone1field_15    n     03:34:42.00   -52:53:02.40           0.00         0.00
+zone1field_16    n     03:35:33.60   -52:53:02.40           0.00         0.00
+zone1field_17    n     03:36:25.20   -52:53:02.40           0.00         0.00
+zone1field_18    n     03:38:34.20   -53:04:12.00           0.00         0.00
+zone1field_19    n     03:37:42.60   -53:04:12.00           0.00         0.00
+zone1field_20    n     03:36:51.00   -53:04:12.00           0.00         0.00
+zone1field_21    n     03:35:59.40   -53:04:12.00           0.00         0.00
+zone1field_22    n     03:35:07.80   -53:04:12.00           0.00         0.00
+zone1field_23    n     03:34:42.00   -53:15:21.60           0.00         0.00
+zone1field_24    n     03:35:07.80   -53:26:31.20           0.00         0.00
+zone1field_25    n     03:34:42.00   -53:37:40.80           0.00         0.00
+zone1field_26    n     03:36:51.00   -53:48:50.40           0.00         0.00
+zone1field_27    n     03:37:42.60   -53:48:50.40           0.00         0.00
+zone1field_28    n     03:38:34.20   -53:48:50.40           0.00         0.00
+
+------------------------------------------------
