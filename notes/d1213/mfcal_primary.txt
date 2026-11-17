@@ -1,0 +1,18 @@
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 1097538
+Number correlations accepted: 2652132
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 61
+Number of passband solution intervals: 1
+Initialising ...
+Using post-Aug94 ATCA flux scale for 1934-638.
+Using known frequency variation of 1934-638
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.661
+Iter= 2, Solution Error:  0.008
+Iter= 3, Solution Error:  0.000
+Saving solution ...

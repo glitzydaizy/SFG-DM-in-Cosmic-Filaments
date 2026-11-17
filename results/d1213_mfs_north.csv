@@ -1,0 +1,2 @@
+ID,RA,Dec,Peak_mJy,Int_mJy,AllWISE,Sep_arcsec,W1,W2,W4,W1_W2,q22,qph,ccf,NED_Name,NED_Type,z,Class
+ATCA_01_0337-5311,03:37:11.54,-53:11:37.1,0.686,0.576,--,nan,nan,nan,nan,nan,nan,--,--,--,--,nan,No_WISE_match

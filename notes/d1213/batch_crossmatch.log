@@ -1,0 +1,30 @@
+Total fitted components parsed: 98
+Clean compact/resolved candidates kept: 26
+[1/26] ATCA_01_0336-5350 (6.194 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[2/26] ATCA_02_0335-5350 (2.502 mJy) -> AGN_candidate | q22=-0.06 (AAAB) | z=nan
+[3/26] ATCA_03_0338-5350 (0.368 mJy) -> AGN_candidate | q22=1.23 (AAAA) | z=nan
+[4/26] ATCA_05_0336-5350 (2.212 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[5/26] ATCA_07_0335-5350 (1.272 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[6/26] ATCA_08_0336-5350 (0.504 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[7/26] ATCA_11_0336-5348 (1.942 mJy) -> Uncertain_W4_upper_limit | q22=-0.18 (AAUU) | z=nan
+[8/26] ATCA_13_0335-5348 (0.585 mJy) -> Uncertain_W4_upper_limit | q22=0.35 (AAUU) | z=nan
+[9/26] ATCA_16_0338-5346 (1.417 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[10/26] ATCA_17_0335-5345 (0.521 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[11/26] ATCA_18_0337-5345 (4.152 mJy) -> SFG_candidate | q22=0.53 (AAAA) | z=0.075542
+[12/26] ATCA_19_0337-5345 (0.601 mJy) -> Uncertain_W4_upper_limit | q22=0.35 (ABUU) | z=nan
+[13/26] ATCA_20_0335-5345 (1.789 mJy) -> SFG_candidate | q22=1.03 (AAAA) | z=0.059641
+[14/26] ATCA_21_0338-5344 (0.663 mJy) -> Uncertain_W4_upper_limit | q22=0.34 (AAUU) | z=nan
+[15/26] ATCA_23_0337-5343 (18.51 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[16/26] ATCA_24_0337-5343 (0.362 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[17/26] ATCA_26_0336-5343 (1.017 mJy) -> AGN_candidate | q22=0.3 (BBUU) | z=nan
+[18/26] ATCA_27_0336-5342 (0.429 mJy) -> AGN_candidate | q22=0.69 (ABCU) | z=nan
+[19/26] ATCA_28_0338-5341 (0.573 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[20/26] ATCA_34_0338-5340 (0.48 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[21/26] ATCA_38_0337-5339 (3.595 mJy) -> Uncertain_W4_upper_limit | q22=-0.28 (AAUU) | z=nan
+[22/26] ATCA_62_0335-5334 (0.464 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[23/26] ATCA_71_0336-5332 (0.523 mJy) -> AGN_candidate | q22=0.53 (BBUU) | z=nan
+[24/26] ATCA_78_0336-5322 (0.357 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+[25/26] ATCA_86_0338-5313 (0.93 mJy) -> Uncertain_W4_upper_limit | q22=0.35 (ABUU) | z=nan
+[26/26] ATCA_97_0337-5311 (0.576 mJy) -> No_WISE_match | q22=nan (--) | z=nan
+
+Saved complete catalog to results/d1213_mfs_catalog.csv!

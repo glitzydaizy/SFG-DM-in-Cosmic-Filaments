@@ -1,0 +1,346 @@
+=== band 1140 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 1326120
+Number correlations accepted: 0
+### Fatal Error:  No data to process!
+FAILED band 1140
+=== band 1268 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 978532
+Number correlations accepted: 337308
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  1.511
+Iter= 2, Solution Error:  0.003
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 1396 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 210948
+Number correlations accepted: 1104892
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.315
+Iter= 2, Solution Error:  0.002
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 1524 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 793210
+Number correlations accepted: 522630
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  1.065
+Iter= 2, Solution Error:  0.002
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 1652 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 612110
+Number correlations accepted: 703730
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.792
+Iter= 2, Solution Error:  0.005
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 1780 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 198702
+Number correlations accepted: 1117138
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.387
+Iter= 2, Solution Error:  0.002
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 1908 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 367954
+Number correlations accepted: 947886
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.595
+Iter= 2, Solution Error:  0.001
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2036 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 55082
+Number correlations accepted: 1260758
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.128
+Iter= 2, Solution Error:  0.001
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2164 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 315446
+Number correlations accepted: 1000394
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.538
+Iter= 2, Solution Error:  0.002
+Iter= 3, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2292 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 30574
+Number correlations accepted: 1285266
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.123
+Iter= 2, Solution Error:  0.001
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2420 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 18474
+Number correlations accepted: 1297366
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.135
+Iter= 2, Solution Error:  0.001
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2548 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 67278
+Number correlations accepted: 1248562
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.242
+Iter= 2, Solution Error:  0.001
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2676 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 1546
+Number correlations accepted: 1314294
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.083
+Iter= 2, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2804 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 10698
+Number correlations accepted: 1305142
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.119
+Iter= 2, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 2932 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 53264
+Number correlations accepted: 1262576
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  0.242
+Iter= 2, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table
+=== band 3060 ===
+MfCal: $Revision: 1.21 $, $Date: 2021/06/02 04:45:09 $
+Selecting parallel-hand polarisations
+Reading the data ...
+### Warning:  Correlations flagged or edge-rejected: 1040180
+Number correlations accepted: 275660
+Number of frequency bands/settings: 1
+Number of polarisations selected: 2
+Number of solution intervals: 343
+Number of passband solution intervals: 1
+Initialising ...
+Generating initial solution estimate ...
+Doing solution refinement ...
+Iter= 1, Solution Error:  1.934
+Iter= 2, Solution Error:  0.000
+Saving solution ...
+
+gpcopy: Revision 1.14, 2021/06/02 04:45:09 UTC
+
+Copying gain table
+Interpolation tolerance set to (minutes): 720.00
+Copying bandpass table

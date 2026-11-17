@@ -1,0 +1,33 @@
+
+imsad: Revision (not recorded)
+
+Image: d1213_mfs.cm
+Begin plane   1
+
+BEAM major/minor/pa =   18.051   3.036 arcsec  -16.8 degrees
+BEAM area = 1.459E-09 str 8.460E+01 pixels**2
+Image units = JY/BEAM
+Number of blanked pixels =         0
+Number of good pixels =    684801
+Number of islands found =    3
+
+BEAM major/minor/pa   18.051   3.036 arcsec  -16.8 degrees
+Peak flux (Jy)  6.863E-04
+Integrated flux (Jy)  5.760E-04
+Fitted major/minor/pa   10.29   4.47 arcsec   -23.4 degrees
+Fitted offsets  6.5013E+02 -4.4516E+02 arcsec
+0337-5311 :  03:37:11.54 -53:11:37.1  6.863E-04  5.760E-04  1.029E+01  4.471E+00 -2.344E+01 C F F
+
+BEAM major/minor/pa   18.051   3.036 arcsec  -16.8 degrees
+Peak flux (Jy)  5.006E-04
+Integrated flux (Jy)  2.683E-04
+Fitted major/minor/pa    7.14   4.11 arcsec    -1.7 degrees
+Fitted offsets  4.8520E+02 -4.3493E+02 arcsec
+0336-5311 :  03:36:53.24 -53:11:26.9  5.006E-04  2.683E-04  7.137E+00  4.115E+00 -1.749E+00 C F F
+
+BEAM major/minor/pa   18.051   3.036 arcsec  -16.8 degrees
+Peak flux (Jy)  4.832E-04
+Integrated flux (Jy)  1.116E-04
+Fitted major/minor/pa    4.48   2.82 arcsec   -28.0 degrees
+Fitted offsets  1.5196E+03 -3.2670E+02 arcsec
+0338-5309 :  03:38:48.01 -53:09:38.7  4.832E-04  1.116E-04  4.480E+00  2.824E+00 -2.802E+01 C F F

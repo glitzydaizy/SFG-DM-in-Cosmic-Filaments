@@ -1,0 +1,206 @@
+=== 1934-638 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:       5581500    5344612    Changed to bad:     236888
+ Bad:        1917840    2154728    Changed to good:         0
+ 28.7% of the data is now flagged
+=== 0302-623 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      31354000   30213204    Changed to bad:    1140796
+ Bad:       10773440   11914236    Changed to good:         0
+ 28.3% of the data is now flagged
+=== zone1field_15 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:       4849500    2136156    Changed to bad:    2713344
+ Bad:        1666320    4379664    Changed to good:         0
+ 67.2% of the data is now flagged
+=== zone1field_16 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18056000    8067184    Changed to bad:    9988816
+ Bad:        6204160   16192976    Changed to good:         0
+ 66.7% of the data is now flagged
+=== zone1field_17 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18239000    8159644    Changed to bad:   10079356
+ Bad:        6267040   16346396    Changed to good:         0
+ 66.7% of the data is now flagged
+=== zone1field_18 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8128548    Changed to bad:   10171452
+ Bad:        6288000   16459452    Changed to good:         0
+ 66.9% of the data is now flagged
+=== zone1field_19 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8143112    Changed to bad:   10156888
+ Bad:        6288000   16444888    Changed to good:         0
+ 66.9% of the data is now flagged
+=== zone1field_20 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8246168    Changed to bad:   10053832
+ Bad:        6288000   16341832    Changed to good:         0
+ 66.5% of the data is now flagged
+=== zone1field_21 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8241460    Changed to bad:   10058540
+ Bad:        6288000   16346540    Changed to good:         0
+ 66.5% of the data is now flagged
+=== zone1field_22 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8205292    Changed to bad:   10094708
+ Bad:        6288000   16382708    Changed to good:         0
+ 66.6% of the data is now flagged
+=== zone1field_23 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8155956    Changed to bad:   10144044
+ Bad:        6288000   16432044    Changed to good:         0
+ 66.8% of the data is now flagged
+=== zone1field_24 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18269500    8133028    Changed to bad:   10136472
+ Bad:        6277520   16413992    Changed to good:         0
+ 66.9% of the data is now flagged
+=== zone1field_25 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18208500    8030832    Changed to bad:   10177668
+ Bad:        6256560   16434228    Changed to good:         0
+ 67.2% of the data is now flagged
+=== zone1field_26 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8118184    Changed to bad:   10181816
+ Bad:        6288000   16469816    Changed to good:         0
+ 67.0% of the data is now flagged
+=== zone1field_27 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8264660    Changed to bad:   10035340
+ Bad:        6288000   16323340    Changed to good:         0
+ 66.4% of the data is now flagged
+=== zone1field_28 ===
+
+pgflag: Revision 1.34, 2021/06/02 04:45:09 UTC
+
+Applying changes to dataset
+Counts of correlations within selected channels:
+ channel  Originally  Currently
+ Good:      18300000    8206072    Changed to bad:   10093928
+ Bad:        6288000   16381928    Changed to good:         0
+ 66.6% of the data is now flagged
+=== hand flags ===
+
+uvflag: Revision 1.12, 2021/06/03 07:09:31 UTC
+
+
+Set flags to indicate bad data in visibility file d1213.uv
+Linetype channel; select    3 channels; start 1734, width    1, step    1
+
+Overview of flagging on visibility file d1213.uv
+Changed flags set to FALSE (data flagged as bad)
+Total number of records selected: 183120; out of 183120 records
+Antennas used: 1-6
+Counts of correlations within selected channels
+channel   Originally    Currently
+Good:          142116.           0.    Changed to bad:      142116.
+Bad:           407244.      549360.
+
+uvflag: Revision 1.12, 2021/06/03 07:09:31 UTC
+
+
+Set flags to indicate bad data in visibility file d1213.uv
+Linetype channel; select    7 channels; start 1207, width    1, step    1
+
+Overview of flagging on visibility file d1213.uv
+Changed flags set to FALSE (data flagged as bad)
+Total number of records selected: 183120; out of 183120 records
+Antennas used: 1-6
+Counts of correlations within selected channels
+channel   Originally    Currently
+Good:          369872.           0.    Changed to bad:      369872.
+Bad:           911968.     1281840.
+
+uvflag: Revision 1.12, 2021/06/03 07:09:31 UTC
+
+
+Set flags to indicate bad data in visibility file d1213.uv
+Linetype channel; select    5 channels; start 1233, width    1, step    1
+
+Overview of flagging on visibility file d1213.uv
+Changed flags set to FALSE (data flagged as bad)
+Total number of records selected: 183120; out of 183120 records
+Antennas used: 1-6
+Counts of correlations within selected channels
+channel   Originally    Currently
+Good:          212068.           0.    Changed to bad:      212068.
+Bad:           703532.      915600.
