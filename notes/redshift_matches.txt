@@ -1,0 +1,8 @@
+
+=== source1 (03h37m04.692s -53d01m21.42s) ===
+  6dFGS: no match within 15 arcsec
+  HRS_Fleenor2005: no match within 15 arcsec
+
+=== source2 (03h37m05.876s -52d58m20.33s) ===
+  6dFGS: no match within 15 arcsec
+  HRS_Fleenor2005: no match within 15 arcsec

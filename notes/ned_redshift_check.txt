@@ -1,0 +1,18 @@
+======================================================================
+WISEA J033706.65-534512.5
+Published Velocity Published Velocity Uncertainty Published Redshift Published Redshift Uncertainty       Refcode           Qualifiers        Spectrograph    Measurement Mode Technique
+      km / s                   km / s                                                                                                                                                   
+------------------ ------------------------------ ------------------ ------------------------------ ------------------- ------------------ ------------------ --------------------------
+             22647                             61           0.075542                       0.000203 1996ApJS..107..201L                                                                 
+             22647                             61           0.075542                       0.000203 1996ApJS..107..201L From new, raw data Long-slit spectrum                           
+             19142                              0           0.063852                            0.0 2014ApJS..210....9B   Uncertain origin                                              
+======================================================================
+WISEA J033555.94-534510.8
+Published Velocity Published Velocity Uncertainty Published Redshift Published Redshift Uncertainty       Refcode           Qualifiers     Spectrograph Measurement Mode Technique
+      km / s                   km / s                                                                                                                                             
+------------------ ------------------------------ ------------------ ------------------------------ ------------------- ------------------ ------------ --------------------------
+             17880                             53           0.059641                       0.000177 2006AJ....131.1280F                                                           
+             17880                             53           0.059641                       0.000177 2006AJ....131.1280F   Uncertain origin                                        
+             17830                            100           0.059474                       0.000334 1983MNRAS.203..545L From new, raw data                 Individual line fitting
+             17829                              0            0.05947                            0.0 2014ApJS..210....9B   Uncertain origin                                        
+             14075                              0           0.046948                            0.0 2014ApJS..210....9B   Uncertain origin                                        

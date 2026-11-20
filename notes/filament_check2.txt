@@ -1,0 +1,32 @@
+91 galaxies, HRV 598-35142 km/s
+mean 17771, median 17781, std 5422 km/s
+percentiles 5/16/50/84/95: [ 9642. 13268. 17781. 22822. 26170.]
+
+ATCA_18: cz = 22647 km/s
+  catalogue galaxies within +/-1000 km/s: 5
+  within +/-3000 km/s: 24
+  nearest 5 on the sky:
+    J033500-532230  sep= 29.4'  (2.53 Mpc)  cz=17984  dv=-4335 km/s
+    J033310-542118  sep= 50.0'  (4.30 Mpc)  cz=17861  dv=-4450 km/s
+    J033051-541029  sep= 60.7'  (5.22 Mpc)  cz=13261  dv=-8727 km/s
+    J033524-544538  sep= 62.2'  (5.35 Mpc)  cz=13417  dv=-8582 km/s
+    J033344-544020  sep= 62.6'  (5.38 Mpc)  cz=18533  dv=-3825 km/s
+
+ATCA_20: cz = 17880 km/s
+  catalogue galaxies within +/-1000 km/s: 21
+  within +/-3000 km/s: 38
+  nearest 5 on the sky:
+    J033500-532230  sep= 24.1'  (1.67 Mpc)  cz=17984  dv=+98 km/s
+    J033310-542118  sep= 43.5'  (3.01 Mpc)  cz=17861  dv=-18 km/s
+    J033051-541029  sep= 51.4'  (3.55 Mpc)  cz=13261  dv=-4359 km/s
+    J033344-544020  sep= 58.4'  (4.04 Mpc)  cz=18533  dv=+616 km/s
+    J033524-544538  sep= 60.6'  (4.19 Mpc)  cz=13417  dv=-4212 km/s
+
+wrote results/hrs_redshift_check.png
+
+ATCA_18: galaxies within +/-1000 km/s of its cz
+J033843-561900 sep=154' cz=22614
+J033910-554335 sep=120' cz=22478
+J032231-531430 sep=134' cz=22960
+J032155-531825 sep=138' cz=23522
+J032030-543816 sep=155' cz=21756

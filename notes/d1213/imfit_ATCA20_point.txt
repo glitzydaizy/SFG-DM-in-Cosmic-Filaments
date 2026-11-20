@@ -1,0 +1,23 @@
+
+imfit: Revision 1.14, 2018/11/29 02:59:28 UTC
+
+-------------------------------------------------
+Object zone1field_15
+RMS residual is 1.56E-04
+
+Using the following beam parameters when
+deconvolving and converting to integrated flux
+  Beam Major, minor axes (arcsec):    18.05     3.04
+  Beam Position angle (degrees):     -16.8
+
+Scaling error estimates by  9.2 to account for
+noise correlation between pixels
+
+Source  1, Object type: point
+  Peak value:                 8.6058E-04 +/-  2.2242E-04
+  Offset Position (arcsec):     -32.405 -2459.553
+  Positional errors (arcsec):     0.958     2.697
+  Pos error ellipse (arcsec):     2.841     0.471   -16.94
+  Right Ascension:                03:35:55.804
+  Declination:                    -53:45:11.553
+-------------------------------------------------

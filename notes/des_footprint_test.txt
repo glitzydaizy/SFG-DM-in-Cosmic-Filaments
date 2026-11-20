@@ -1,0 +1,4 @@
+ATCA_18 field      DES rows=0
+Dec -45            DES rows=0
+Dec -60            DES rows=0
+SN-X3 deep field   DES rows=0

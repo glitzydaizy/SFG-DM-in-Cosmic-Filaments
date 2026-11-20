@@ -1,0 +1,29 @@
+
+imfit: Revision 1.14, 2018/11/29 02:59:28 UTC
+
+-------------------------------------------------
+Object zone1field_15
+RMS residual is 6.94E-05
+
+Using the following beam parameters when
+deconvolving and converting to integrated flux
+  Beam Major, minor axes (arcsec):    18.05     3.04
+  Beam Position angle (degrees):     -16.8
+
+Scaling error estimates by  9.2 to account for
+noise correlation between pixels
+
+Source  1, Object type: gaussian
+  Peak value:                 3.4872E-03 +/-  1.2828E-04
+  Total integrated flux:      4.2336E-03 +/-  2.2368E-04
+  Offset Position (arcsec):     606.216 -2460.448
+  Positional errors (arcsec):     0.100     0.268
+  Pos error ellipse (arcsec):     0.282     0.056   -17.07
+  Right Ascension:                03:37:06.663
+  Declination:                    -53:45:12.448
+  Major axis (arcsec):          18.341 +/-  0.676
+  Minor axis (arcsec):           3.627 +/-  0.137
+  Position angle (degrees):     -16.95 +/-   0.66
+  Deconvolved Major, minor axes (arcsec):    3.260    1.970
+  Deconvolved Position angle (degrees):     -22.2
+-------------------------------------------------

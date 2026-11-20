@@ -1,0 +1,13 @@
+check ATCA_18 old: L=8.70e+22  Murphy=55.2  Bell=48.0
+check ATCA_20 old: L=2.29e+22  Murphy=14.6  Bell=12.7
+
+ATCA_18_0337-5345  z=0.075542  S=4.234 +/- 0.308 mJy
+  alpha=0.50  L=7.57e+22 W/Hz  SFR_Murphy= 48.1 (+3.5/-3.5)  SFR_Bell= 41.8
+  alpha=0.75  L=8.87e+22 W/Hz  SFR_Murphy= 56.3 (+4.1/-4.1)  SFR_Bell= 49.0
+  alpha=1.00  L=1.04e+23 W/Hz  SFR_Murphy= 66.0 (+4.8/-4.8)  SFR_Bell= 57.4
+
+ATCA_20_0335-5345  z=0.059641  S=2.000 +/- 0.608 mJy
+  alpha=0.50  L=2.20e+22 W/Hz  SFR_Murphy= 13.9 (+4.2/-4.2)  SFR_Bell= 12.1
+  alpha=0.75  L=2.56e+22 W/Hz  SFR_Murphy= 16.3 (+5.0/-5.0)  SFR_Bell= 14.2
+  alpha=1.00  L=2.99e+22 W/Hz  SFR_Murphy= 19.0 (+5.8/-5.8)  SFR_Bell= 16.5
+
