@@ -1,0 +1,24 @@
+Total matched galaxies (rows): 2
+
+Column headers:
+['ID', 'z', 'S_2.46GHz_mJy', 'eS_mJy', 'L_1.4_W_Hz', 'SFR_Murphy11', 'e_SFR_flux', 'dSFR_alpha0.5', 'dSFR_alpha1.0', 'SFR_Bell03']
+
+First 3 rows preview:
+                  ID         z  ...  dSFR_alpha1.0  SFR_Bell03
+0  ATCA_18_0337-5345  0.075542  ...            9.7        49.0
+1  ATCA_20_0335-5345  0.059641  ...            2.7        14.2
+
+[2 rows x 10 columns]
+
+Summary statistics (min, median, mean, max):
+              z  S_2.46GHz_mJy  ...  dSFR_alpha1.0  SFR_Bell03
+count  2.000000       2.000000  ...       2.000000    2.000000
+mean   0.067591       3.117000  ...       6.200000   31.600000
+std    0.011244       1.579677  ...       4.949747   24.607316
+min    0.059641       2.000000  ...       2.700000   14.200000
+25%    0.063616       2.558500  ...       4.450000   22.900000
+50%    0.067591       3.117000  ...       6.200000   31.600000
+75%    0.071567       3.675500  ...       7.950000   40.300000
+max    0.075542       4.234000  ...       9.700000   49.000000
+
+[8 rows x 9 columns]

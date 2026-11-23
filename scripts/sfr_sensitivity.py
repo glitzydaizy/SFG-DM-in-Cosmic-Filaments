@@ -34,3 +34,23 @@ for name, (z, S, eS) in sources.items():
         print(f"  alpha={alpha:4.2f}  L={L:.2e} W/Hz  "
               f"SFR_Murphy={m:5.1f} (+{m_hi-m:.1f}/-{m-m_lo:.1f})  SFR_Bell={b:5.1f}")
     print()
+import csv
+rows = []
+for name, (z, S, eS) in sources.items():
+    eS_tot = np.hypot(eS, CAL * S)
+    L, m, b = sfr(z, S, 0.75)
+    _, m_lo, _ = sfr(z, S - eS_tot, 0.75)
+    _, m_hi, _ = sfr(z, S + eS_tot, 0.75)
+    _, m05, _ = sfr(z, S, 0.5)
+    _, m10, _ = sfr(z, S, 1.0)
+    rows.append([name, z, round(S, 3), round(eS_tot, 3), f"{L:.3e}",
+                 round(m, 1), round(m_hi - m, 1),
+                 round(m05 - m, 1), round(m10 - m, 1), round(b, 1)])
+
+with open("results/d1213_sfg_sfr_v2.csv", "w", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(["ID", "z", "S_2.46GHz_mJy", "eS_mJy", "L_1.4_W_Hz",
+                "SFR_Murphy11", "e_SFR_flux", "dSFR_alpha0.5", "dSFR_alpha1.0",
+                "SFR_Bell03"])
+    w.writerows(rows)
+print("wrote results/d1213_sfg_sfr_v2.csv")

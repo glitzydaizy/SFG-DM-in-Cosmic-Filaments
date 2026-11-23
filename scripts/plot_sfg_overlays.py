@@ -23,14 +23,14 @@ targets = [
         "wise": "WISEA J033706.65-534512.5",
         "coord": SkyCoord("03:37:06.66 -53:45:12.4", unit=(u.hourangle, u.deg)),
         "z": 0.075542,
-        "sfr": 55.2
+        "sfr": 56
     },
     {
         "name": "ATCA_20_0335-5345",
         "wise": "WISEA J033555.94-534510.8",
         "coord": SkyCoord("03:35:55.83 -53:45:12.2", unit=(u.hourangle, u.deg)),
         "z": 0.059641,
-        "sfr": 14.6
+        "sfr": 16
     }
 ]
 
@@ -87,7 +87,7 @@ for t in targets:
         ax.set_ylabel("Declination (J2000)" if i == 1 else "", fontsize=10)
 
     fig.suptitle(
-        f"{t['name']} — ATCA 2.46 GHz Contours (4, 6, 10, 20, 35σ_local) | SFR = {t['sfr']} M☉/yr",
+        f"{t['name']} — ATCA 2.46 GHz Contours (4, 6, 10, 20, 35σ_local) | SFR ≈ {t['sfr']} M☉/yr",
         fontsize=12, fontweight="bold"
     )
     plt.tight_layout()
