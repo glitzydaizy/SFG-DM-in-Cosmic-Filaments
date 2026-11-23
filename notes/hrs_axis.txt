@@ -1,0 +1,14 @@
+523 galaxies in catalogue
+core galaxies: 238
+trend: 110 km/s per degree, residual scatter 1462 km/s
+ATCA_18: S=-2.75 deg  cz=22647  trend=19546  residual=+3101 km/s
+ATCA_20: S=-2.57 deg  cz=17880  trend=19566  residual=-1686 km/s
+wrote results/hrs_axis_check.png
+
+residual percentiles (5/16/50/84/95): [-1930. -1640.    93.  1705.  2117.]
+ATCA_18: residual +3101 km/s; 2 of 238 core galaxies within +/-500 km/s of that residual (1%)
+ATCA_20: residual -1686 km/s; 79 of 238 core galaxies within +/-500 km/s of that residual (33%)
+
+core galaxies within +/-500 km/s of ATCA_18's residual:
+J033843-561900 cz=22614 sep=154 arcmin
+J033910-554335 cz=22478 sep=120 arcmin

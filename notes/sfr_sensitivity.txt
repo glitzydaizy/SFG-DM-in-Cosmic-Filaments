@@ -11,3 +11,4 @@ ATCA_20_0335-5345  z=0.059641  S=2.000 +/- 0.608 mJy
   alpha=0.75  L=2.56e+22 W/Hz  SFR_Murphy= 16.3 (+5.0/-5.0)  SFR_Bell= 14.2
   alpha=1.00  L=2.99e+22 W/Hz  SFR_Murphy= 19.0 (+5.8/-5.8)  SFR_Bell= 16.5
 
+wrote results/d1213_sfg_sfr_v2.csv
