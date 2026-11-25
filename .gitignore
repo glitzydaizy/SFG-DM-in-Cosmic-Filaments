@@ -1,0 +1,4 @@
+*.fits
+venv/
+raw_data/
+miriad_working/
