@@ -1,4 +1,18 @@
+# data
+data/
+*.uv
+*.mir
 *.fits
-venv/
+*.rpfits
+*.img
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
 raw_data/
 miriad_working/
+*.fits
+venv/
